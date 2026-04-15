@@ -4,7 +4,6 @@
 
 ## Overview
 
-<img src='README_imgs/overview.png' width='800'>
 <img width="554" height="346" alt="image" src="https://github.com/user-attachments/assets/23bf346a-b47e-4678-adb6-599c7ac27fdf" />
 
 ## Code Prerequisites
