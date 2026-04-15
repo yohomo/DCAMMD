@@ -14,7 +14,6 @@ The following packages are required to run the scripts:
 
 - [tensorboard](https://www.tensorflow.org/tensorboard)
 
-Some comparing methods may require additional packages to run (e.g, OpenCV in DeepEMD and qpth, cvxpy in MetaOptNet).
 
 ## Dataset prepare
 
