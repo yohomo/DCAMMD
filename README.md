@@ -1,6 +1,5 @@
 # Multi-Scale Cross-Graph Adaptive Distribution Generation for Few-Shot Image Classification
-Code relaese for [Multi-Scale Cross-Graph Adaptive Distribution Generation for Few-Shot Image Classification].
-
+Code release for the manuscript: [Multi-Scale Cross-Image Adaptive Distribution Generation for Few-Shot Image Classification], submitted to The Visual Computer.
 ## Overview
 
 <img width="554" height="346" alt="image" src="https://github.com/user-attachments/assets/23bf346a-b47e-4678-adb6-599c7ac27fdf" />
